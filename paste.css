@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    margin-top: -150px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    text-decoration: underline;
+    letter-spacing: 4px;
+}
+
+div{
+    width: min-content;
+}
+
+img{
+    height: 400px;
+    width:500px;
+    height: 300px;
+    display: block;
+
+
+}
+.gallery{
+    padding: 50px;
+ margin: 0 auto 0 auto;
+width: min-content;
+    border: 2px solid rgb(65, 47, 47);
+    margin-bottom: 50px;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 60px;
+    letter-spacing: 3px;
+}
+
+#pg{
+     margin-top: -60px;
+   max-width: min-content;
+    display: block;
+}
+
+#logo{
+    float: right;
+    display: block;
+    max-width: min-content;
+    margin-top: -300px;
+}
+span{
+    text-decoration: underline;
+}
